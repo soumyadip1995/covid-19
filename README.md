@@ -86,6 +86,6 @@ https://www.ncbi.nlm.nih.gov/nuccore/NC_045512.2
 
 When you talk about the code. Mention villin headpiece. pdb file:- 1uw7
 
-Deconstructing the Coronavirus
+Deconstructing the Coronavirus:- pdb file:- 1vii seems to work with Openmm
 
 
